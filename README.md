@@ -9,3 +9,13 @@ The AI will start making moves and stuff
 
 ## The current bot is FurryBot that I made here: [FurryBot](https://github.com/ManzanaNaranja/FurryBot)
 -it is not that good so in the meantime, I plan to replace it with the javascript version of stockfish soon
+
+### How the stuff works
+
+-The script utilizes the chess.js library to keep track of the game
+-lichess.org broadcasts the fen on streaming of the game somewhere in the html so I grab that to get the start position
+-my script calls the FurryBot.bestmove(fen) function to get best move
+-it makes moves with websockets
+-it updates position of board (fen) based on dom changes on right
+
+
