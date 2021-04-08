@@ -18,7 +18,7 @@ The AI will start making moves and stuff
 - it makes moves with websockets
 - it updates position of board (fen) based on dom changes on right
 
-#### I tried using stockfish 9 against stockfish and it caught me cheating but hasn't banned me yet
+### I tried using stockfish 9 against stockfish 5 and it caught me cheating but hasn't banned me yet
 
 ![img](result.PNG)
 
