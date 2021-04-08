@@ -7,7 +7,7 @@ Allows an AI to play moves for you on a User Account
 
 The AI will start making moves and stuff
 
-## The current bot is FurryBot that I made here: [FurryBot](https://github.com/ManzanaNaranja/FurryBot)
+## The current bot is FurryBot that I made here: [FurryBot](https://github.com/ManzanaNaranja/FurryBot-ChessAI)
 - it is not that good so in the meantime, I plan to replace it with the javascript version of stockfish soon
 
 ### How the stuff works
