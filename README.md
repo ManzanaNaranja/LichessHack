@@ -20,7 +20,8 @@ The AI will start making moves and stuff
 
 result: 
 
-[img](result.PNG)
+![img](result.PNG)
+
 
 
 
