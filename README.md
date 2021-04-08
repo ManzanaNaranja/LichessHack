@@ -18,4 +18,10 @@ The AI will start making moves and stuff
 - it makes moves with websockets
 - it updates position of board (fen) based on dom changes on right
 
+result: 
+
+[img](result.PNG)
+
+
+
 
